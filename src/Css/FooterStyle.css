@@ -1,0 +1,22 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #000000;
+    width: 100%;
+    padding: .5em;
+
+}
+.line{
+    width: 10%;
+}
+
+.icon{
+    margin-right: 1em;
+}
+.copyright{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: .5em;
+    
+}
+
